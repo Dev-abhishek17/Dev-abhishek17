@@ -1,4 +1,4 @@
-# Abhishek Dwivedi
+# ABHISHEK KUMAR DWIVEDI
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dev-abhishek17&label=Views&style=for-the-badge&color=0A66C2&" alt="Views" />
